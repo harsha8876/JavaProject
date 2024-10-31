@@ -1,0 +1,79 @@
+[
+  {
+    "specialty": "Cardiology",
+    "role": "Doctor",
+    "shift": "Morning",
+    "name": "Dr. John Smith",
+    "id": "D001"
+  },
+  {
+    "specialty": "Neurology",
+    "role": "Doctor",
+    "shift": "Afternoon",
+    "name": "Dr. Emily Johnson",
+    "id": "D002"
+  },
+  {
+    "specialty": "Orthopedics",
+    "role": "Doctor",
+    "shift": "Evening",
+    "name": "Dr. Mark Lee",
+    "id": "D003"
+  },
+  {
+    "specialty": "Pediatrics",
+    "role": "Doctor",
+    "shift": "Night",
+    "name": "Dr. Sarah Williams",
+    "id": "D004"
+  },
+  {
+    "specialty": "General Surgery",
+    "role": "Doctor",
+    "shift": "Morning",
+    "name": "Dr. Jessica Brown",
+    "id": "D005"
+  },
+  {
+    "specialty": "Oncology",
+    "role": "Doctor",
+    "shift": "Afternoon",
+    "name": "Dr. Michael Garcia",
+    "id": "D006"
+  },
+  {
+    "specialty": "Gastroenterology",
+    "role": "Doctor",
+    "shift": "Evening",
+    "name": "Dr. Karen Martinez",
+    "id": "D007"
+  },
+  {
+    "specialty": "Dermatology",
+    "role": "Doctor",
+    "shift": "Night",
+    "name": "Dr. Christopher Hernandez",
+    "id": "D008"
+  },
+  {
+    "specialty": "Endocrinology",
+    "role": "Doctor",
+    "shift": "Morning",
+    "name": "Dr. Susan Clark",
+    "id": "D009"
+  },
+  {
+    "specialty": "Pulmonology",
+    "role": "Doctor",
+    "shift": "Afternoon",
+    "name": "Dr. Robert Lewis",
+    "id": "D010"
+  },
+  {
+    "specialty": "N/A",
+    "role": "staff",
+    "shift": "night",
+    "name": "ken",
+    "id": "S001"
+  }
+]

@@ -1,0 +1,44 @@
+{
+    "casesHandledByDoctor": 0,
+    "systemEfficiency": 0,
+    "patients": [
+        {
+            "allergies": "Sulfa Drugs",
+            "ongoingTreatments": "Beta Blockers",
+            "name": "Alice Johnson",
+            "emergencyContacts": ["+1122334455"],
+            "id": "P003",
+            "medicalHistory": "Heart Disease"
+        },
+        {
+            "allergies": "Sulfa Drugs",
+            "ongoingTreatments": "Beta Blockers",
+            "name": "Alice Johnson",
+            "emergencyContacts": ["+1122334455"],
+            "id": "P003",
+            "medicalHistory": "Heart Disease"
+        },
+        {
+            "allergies": "Sulfa Drugs",
+            "ongoingTreatments": "Beta Blockers",
+            "name": "Alice Johnson",
+            "emergencyContacts": ["+1122334455"],
+            "id": "P003",
+            "medicalHistory": "Heart Disease"
+        },
+        {
+            "allergies": "none",
+            "ongoingTreatments": "none",
+            "name": "topg",
+            "emergencyContacts": [
+                "123456789",
+                "123456789"
+            ],
+            "id": "P004",
+            "medicalHistory": "none"
+        }
+    ],
+    "doctorPerformance": 0,
+    "patientInflow": 12000,
+    "successfulOutcomes": 0
+}
